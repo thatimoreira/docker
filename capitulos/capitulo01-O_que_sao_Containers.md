@@ -1,11 +1,6 @@
 # Capítulo I: O que é um Container?
 
-   - [Definição](#definicao)
-   - [Tipos de Isolamento](#tipos-de-isolamento)
-   - [Mecanismos de Isolamento](#mecanismos-de-isolamento)
-   - [Importância dos Containers](#importância-dos-containers)
-
-     <br>
+<br>
 
 <h3 id="definicao">Definição</h3>
 
