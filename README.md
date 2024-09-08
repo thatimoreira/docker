@@ -13,8 +13,11 @@ Comandos e curiosidades importantes sobre docker, além de resumo do curso "[Des
    - [Importância dos Containers](capitulos/capitulo01-O_que_sao_Containers.md#importância-dos-containers)
    
 2. [Capítulo II: O que é o Copy on Write](capitulos/capitulo02-O_que_e_o_Copy_on_Write.md)
-   - [Explicação do Copy on Write](capitulos/capitulo02.md#explicação-do-copy-on-write)
-   - [Exemplos práticos](capitulos/capitulo02.md#exemplos-práticos)
+   - [Definição](#definicao)
+   - [O que é Copy on Write?](#o-que-e-copy-on-write?)
+   - [Vantagens do Copy on Write](vantagens-do-copy-on-write)
+   - [Práticas com Dockerfile](#praticas-com-dockerfile)
+
    
 3. [Capítulo III: Namespaces, cgroups e Netfilter](capitulos/capitulo03-Namespaces_cgroups_e_Netfilter.md)
    - [Namespaces](capitulos/capitulo03.md#namespaces)
