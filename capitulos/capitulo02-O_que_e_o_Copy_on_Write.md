@@ -10,7 +10,7 @@ ___
 
 <br>
 
-### O que é Copy on Write?
+<h3 id="o-que-e-copy-on-write?">O que é Copy on Write?</h3>
 
 O conceito de **Copy on Write (COW)** define como as alterações são feitas em um container. Se você precisa modificar um arquivo que está em uma camada de leitura apenas, o Docker faz uma cópia desse arquivo na última camada
 (a camada de escrita). Só depois dessa cópia você pode realizar modificações.
@@ -35,7 +35,7 @@ ___
 
 <br>
 
-### Práticas com Dockerfile
+<h3 id="praticas-com-dockerfile">Práticas com Dockerfile</h3>
 
 Quando criamos uma imagem no Docker usando um **Dockerfile**, cada instrução `RUN` adiciona uma nova camada.
 Isso pode ser um problema quando fazemos operações como baixar e instalar pacotes, porque arquivos temporários que deveriam ser removidos podem acabar ocupando espaço desnecessário em camadas anteriores.<br><br>
