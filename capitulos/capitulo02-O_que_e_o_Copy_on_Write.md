@@ -1,8 +1,4 @@
 # Capítulo II: O que é Copy on Write?
-  - [Definição](#definicao)
-  - [O que é Copy on Write?](#o-que-e-copy-on-write?)
-  - [Vantagens do Copy on Write](vantagens-do-copy-on-write)
-  - [Práticas com Dockerfile](#praticas-com-dockerfile)
 
 <br>
 
